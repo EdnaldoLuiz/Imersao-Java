@@ -29,6 +29,6 @@ public class GeradorDeFigurinhas {
 
         graphics.drawString("MUITO TOP!", 400, novaAltura - 30);
 
-        ImageIO.write(novaImagem, "png", new File("imersaoJava/imgs/saida/figurinha.png"));
+        ImageIO.write(novaImagem, "png", new File(nomeArquivo));
     }
 }
