@@ -25,13 +25,13 @@ public class App {
 
             Conteudo conteudo = conteudos.get(tamanho);
 
-            InputStream inputStream = new URL(conteudo.getUrlImagem()).openStream();
+            InputStream inputStream = new URL(conteudo.urlImagem()).openStream();
 
-            String nomeArquivos = "imgs/saida/" + conteudo.getTitulo() + ".png";
+            String nomeArquivos = "imgs/saida/" + conteudo.titulo() + ".png";
 
             geradora.cria(inputStream, nomeArquivos);
 
-            System.out.println(conteudo.getTitulo());
+            System.out.println(conteudo.titulo());
             System.out.println();
         }
     }
