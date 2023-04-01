@@ -8,8 +8,11 @@ public class App {
         // String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json";
         // ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
 
-        String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/NASA-APOD.json";
-        ExtratorDeConteudoDaNasa extrator = new ExtratorDeConteudoDaNasa();
+        // String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/NASA-APOD.json";
+        // ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
+
+        String url = "http://localhost:8080/linguagem";
+        ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
 
         var http = new ClienteHttp();
         String json = http.buscaDados(url);
@@ -27,7 +30,7 @@ public class App {
 
             InputStream inputStream = new URL(conteudo.urlImagem()).openStream();
 
-            String nomeArquivos = "imgs/saida/" + conteudo.titulo() + ".png";
+            String nomeArquivos = "imgs/saida/linguagens/" + conteudo.titulo() + ".png";
 
             geradora.cria(inputStream, nomeArquivos);
 

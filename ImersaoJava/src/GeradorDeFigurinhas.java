@@ -23,11 +23,13 @@ public class GeradorDeFigurinhas {
         Graphics2D graphics = (Graphics2D) novaImagem.createGraphics();
         graphics.drawImage(imagemOriginal, 0, 0, null);
 
-        Font fonte = new Font(Font.SANS_SERIF, Font.BOLD, 200);
+        // Font fonte = new Font(Font.SANS_SERIF, Font.BOLD, 200);
+        Font fonte = new Font(Font.SANS_SERIF, Font.BOLD, 50);
         graphics.setColor(Color.YELLOW);
         graphics.setFont(fonte);
 
-        graphics.drawString("MUITO TOP!", 400, novaAltura - 30);
+        // graphics.drawString("MUITO TOP!", 400, novaAltura - 30);
+        graphics.drawString("CODAR!", 28, novaAltura - 100);
 
         ImageIO.write(novaImagem, "png", new File(nomeArquivo));
     }
