@@ -73,28 +73,28 @@
 
  <table align="center">
         <tr>
-            <td>JDK</td>
-            <td>17.0.6</td>
+            <td align="center">JDK</td>
+            <td align="center">17.0.6</td>
             <td align="center" ><a href="12"><img width="80px" src="https://user-images.githubusercontent.com/112354693/229325545-30b21ee2-d7e4-47bf-aab1-24b610103bfb.png"/></a></td>
         </tr>
         <tr>
-            <td>VSCode</td>
-            <td>17.0.6</td>
+            <td align="center">VSCode</td>
+            <td align="center">17.0.6</td>
             <td align="center" ><a href="12"><img width="80px" src="https://user-images.githubusercontent.com/112354693/229325850-0add2ae5-69e4-4dbb-ad6e-681d8c64efa8.png"/></a></td>
         </tr>
         <tr>
-            <td>Spring Boot</td>
-            <td>3.1.0(M2)</td>
+            <td align="center">Spring Boot</td>
+            <td align="center">3.1.0(M2)</td>
             <td align="center" ><a href="12"><img width="80px" src="https://user-images.githubusercontent.com/112354693/229326012-793dd254-deeb-429e-90d7-988040a8c267.png" /></a></td>
         </tr>
         <tr>
-            <td>Postman</td>
-            <td>10.12</td>
+            <td align="center">Postman</td>
+            <td align="center">10.12</td>
             <td align="center" ><a href="12"><img width="80px" src="https://user-images.githubusercontent.com/112354693/229326546-d327db4f-5700-453d-807e-04ba338f5935.png" /></a></td>
         </tr>
         <tr>
-            <td>Docker</td>
-            <td>10.12</td>
+            <td align="center">Docker</td>
+            <td align="center">23.0.2</td>
             <td align="center" ><a href="12"><img width="80px" src="https://user-images.githubusercontent.com/112354693/229374332-6cb5820d-6dbd-4934-be71-591a892f34d3.png" /></a></td>
         </tr>
 </table>
