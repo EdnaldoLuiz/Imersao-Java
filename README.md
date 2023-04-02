@@ -4,20 +4,7 @@
      <img alt="imagem ilustrativa da formação" src="https://user-images.githubusercontent.com/112354693/229369854-d0b08e75-1625-4d90-8565-f1427b43fc40.png" width="100%">
 </p>
 
-## Dia :one:
-Conhecendo padrões de regex e a API do IMDB, criando um código em Java do 0 para consumir a API, retornando o título, link da imagem e a classificação em estrelas sem utilizar bibliotecas externas.
-
-## Dia :two:
-Explorando mais bibliotecas do Java, como a de HTTP e a Graphics2D e criando figurinhas para whatsapp com a API do IMDB pelo link da imagem retornado em formato json.
-
-## Dia :three:
-Refatorando nosso código, pondo em prática orientação a objetos e conceitos de Clean Code e solid, dividindo a classe App em outras classes, por estar muito acoplada e estar fazendo mais funções do que deveria.
-
-## Dia :four:
-Criando um projeto Spring Boot do 0, entendendo algumas das principais anotações e também utilizando um banco de dados NoSQL (MongoDB) na nuvem (AWS), também foi visto como conectar o MongoDB com o Spring Boot pelo aplication.properties e receber os dados das tabelas, utilizando o Postman junto da anotação @Postmapping para enviar dados em formato json para o servidor local do Spring Boot e transformar o mesmo em um arquivo .jar que pode ser executado.
-
-## Dia :five:
-Foi visto um pouco mais sobre o docker o seu objetivo e como criar imagem docker, para fazer um container da nossa aplicação e em seguida subimos ele para o docker hub, como também foi mostrado a como publicar nossa aplicação em um servidor da fly.io, aonde pessoas com o link iriam conseguir utilizá-las remotamente.
+# <h2 align="center">Desafios de cada dia e o que foi visto:</h2>
 
 
 <br><table>
@@ -54,7 +41,6 @@ Foi visto um pouco mais sobre o docker o seu objetivo e como criar imagem docker
             <td align="center">
             <img width="100%" src="https://user-images.githubusercontent.com/112354693/229372338-05aee7d5-a804-4810-9bec-30c282391cda.png"/></td>
         </tr>
-         
         <tr>
             <td>02</td>
             <td>Explorando mais bibliotecas do Java, como a de HTTP e a Graphics2D e criando figurinhas para whatsapp com a API do IMDB pelo link da imagem retornado em formato json.</td>
@@ -62,26 +48,28 @@ Foi visto um pouco mais sobre o docker o seu objetivo e como criar imagem docker
             <img width="100%" src="https://user-images.githubusercontent.com/112354693/229372629-e19b3777-c25a-4cff-a59f-a87c494e61d5.png" /></a></td>
         </tr>
         <tr>
-
             <td>03</td>
-            <td><a href="03">Botões e Cursores</a></td>
-            <td align="center"><a href="03"><img width="300px" src="03/.github/preview.jpg" /></a></td>
+            <td>Refatorando nosso código, pondo em prática orientação a objetos e conceitos de Clean Code e solid, dividindo a classe App em outras classes, por estar muito acoplada e estar fazendo mais funções do que deveria.</td>
+            <td align="center">
+            <img width="100%" src="https://user-images.githubusercontent.com/112354693/229373545-322ff179-d9d1-405d-977e-8208c0f40266.png"></td>
         </tr>
         <tr>
             <td>04</td>
-            <td><a href="04">Chat</a></td>
-            <td align="center"><a href="04"><img width="300px" src="04/.github/preview.jpg" /></a></td>
+            <td>Criando um projeto Spring Boot do 0, entendendo algumas das principais anotações e também utilizando um banco de dados NoSQL (MongoDB) na nuvem (AWS), também foi visto como conectar o MongoDB com o Spring Boot pelo aplication.properties e receber os dados das tabelas, utilizando o Postman junto da anotação @Postmapping para enviar dados em formato json para o servidor local do Spring Boot e transformar o mesmo em um arquivo .jar que pode ser executado.</td>
+            <td align="center">
+            <img width="100%" src="https://user-images.githubusercontent.com/112354693/229373768-aa1c006b-fcf9-48fd-82fd-6b8bb97715d1.png"></td>
         </tr>
         <tr>
             <td>05</td>
-            <td><a href="05">Calculadora</a></td>
-            <td align="center"><a href="05"><img width="300px" src="05/.github/preview.jpg" /></a></td>
+            <td>Foi visto um pouco mais sobre o docker o seu objetivo e como criar imagem docker, para fazer um container da nossa aplicação e em seguida subimos ele para o docker hub, como também foi mostrado a como publicar nossa aplicação em um servidor da fly.io, aonde pessoas com o link iriam conseguir utilizá-las remotamente.</td>
+            <td align="center">
+             <img width="300px" src="https://user-images.githubusercontent.com/112354693/229373826-e852911b-6d3e-49c5-936b-004354b6fa1d.png"></td>
         </tr>
     </tbody>
-</table></p>
+</table>
 
 
-## Tecnologias usadas:
+# <h2 align="center">Tecnologias usadas:</h2>
 
 <p>:arrow_right: IDE: Eclipse 2022-06;</p>
 <p>:arrow_right: JUnit 5.7.0;</p>
