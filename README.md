@@ -6,7 +6,6 @@
 
 ## Dia :one:
 Conhecendo padrões de regex e a API do IMDB, criando um código em Java do 0 para consumir a API, retornando o título, link da imagem e a classificação em estrelas sem utilizar bibliotecas externas.
-<img src="https://user-images.githubusercontent.com/112354693/229370848-3f4e2bf3-c9c9-48c4-941b-dcd9719ebfca.png">
 
 ## Dia :two:
 Explorando mais bibliotecas do Java, como a de HTTP e a Graphics2D e criando figurinhas para whatsapp com a API do IMDB pelo link da imagem retornado em formato json.
@@ -19,6 +18,68 @@ Criando um projeto Spring Boot do 0, entendendo algumas das principais anotaçõ
 
 ## Dia :five:
 Foi visto um pouco mais sobre o docker o seu objetivo e como criar imagem docker, para fazer um container da nossa aplicação e em seguida subimos ele para o docker hub, como também foi mostrado a como publicar nossa aplicação em um servidor da fly.io, aonde pessoas com o link iriam conseguir utilizá-las remotamente.
+
+
+<br><table>
+    <thead>
+        <tr>
+            <th align="center">
+                <img width="20" height="1"> 
+                <p>
+                    <small>Dia</small>
+                </p>
+            </th>
+            <th align="center">
+                <img width="300" height="1"> 
+                <p> 
+                    <small>
+                        Descrição
+                    </small>
+                </p>
+            </th>
+            <th align="left">
+                <img width="140" height="1">
+                <p align="center"> 
+                    <small>
+                    Resolução
+                    </small>
+                </p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>01</td>
+            <td>Conhecendo padrões de regex e a API do IMDB, criando um código em Java do 0 para consumir a API, retornando o título, link da imagem e a classificação em estrelas sem utilizar bibliotecas externas.</td>
+            <td align="center">
+            <img width="100%" src="https://user-images.githubusercontent.com/112354693/229372338-05aee7d5-a804-4810-9bec-30c282391cda.png"/></td>
+        </tr>
+         
+        <tr>
+            <td>02</td>
+            <td>Explorando mais bibliotecas do Java, como a de HTTP e a Graphics2D e criando figurinhas para whatsapp com a API do IMDB pelo link da imagem retornado em formato json.</td>
+            <td align="center">
+            <img width="100%" src="https://user-images.githubusercontent.com/112354693/229372629-e19b3777-c25a-4cff-a59f-a87c494e61d5.png" /></a></td>
+        </tr>
+        <tr>
+
+            <td>03</td>
+            <td><a href="03">Botões e Cursores</a></td>
+            <td align="center"><a href="03"><img width="300px" src="03/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td><a href="04">Chat</a></td>
+            <td align="center"><a href="04"><img width="300px" src="04/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td><a href="05">Calculadora</a></td>
+            <td align="center"><a href="05"><img width="300px" src="05/.github/preview.jpg" /></a></td>
+        </tr>
+    </tbody>
+</table></p>
+
 
 ## Tecnologias usadas:
 
