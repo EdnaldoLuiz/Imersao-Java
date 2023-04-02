@@ -29,7 +29,7 @@ public class GeradorDeFigurinhas {
         graphics.setFont(fonte);
 
         // graphics.drawString("MUITO TOP!", 400, novaAltura - 30);
-        graphics.drawString("CODAR!", 28, novaAltura - 100);
+        graphics.drawString("CODAR!", 28, novaAltura - 130);
 
         ImageIO.write(novaImagem, "png", new File(nomeArquivo));
     }
