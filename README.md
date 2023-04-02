@@ -97,4 +97,9 @@
             <td align="center">23.0.2</td>
             <td align="center" ><a href="12"><img width="80px" src="https://user-images.githubusercontent.com/112354693/229374332-6cb5820d-6dbd-4934-be71-591a892f34d3.png" /></a></td>
         </tr>
+        <tr>
+            <td align="center">MongoDB Atlas</td>
+            <td align="center">5.0</td>
+            <td align="center" ><a href="12"><img width="80px" src="https://user-images.githubusercontent.com/112354693/229375281-5aac16b5-75fd-4076-a2bc-395f370b52fb.png" /></a></td>
+        </tr>
 </table>
